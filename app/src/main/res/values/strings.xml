@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">USIM Number</string>
+    <string name="enter_name">what is name</string>
+    <string name="submit">submit</string>
+</resources>
